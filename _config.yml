@@ -2,19 +2,20 @@
 
 title: CodeCodex
 description: "Claude Code 的终极指南 - 探索 AI 编程的无限可能"
-url: https://jascenn.github.io
-baseurl: /tw93.github.io
-repo: Jascenn/tw93.github.io
+url: https://1994dira.github.io
+baseurl: /codecodex.github.io  # 或者 "" 如果用自定义域名
+repo: 1994dira/codecodex.github.io
+
 lang: zh-CN
 encoding: utf-8
 timezone: Africa/El_Aaiun
 
 # Social Media and External URLs
 
-github: Jascenn
-zhihu: LingYi_Stu
-twitter: LingYi_Stu
-v2ex: LingYi_Stu
+github: 1994dira
+# 其他社交媒体账号根据需要修改
+zhihu: 您的知乎ID
+twitter: 您的Twitter ID
 
 # 顶部导航（已精简与排序）
 
@@ -30,7 +31,7 @@ menu:
 
 # SEO and Analytics
 
-google_analytics: G-KS7EDB6BRM
+google_analytics: 
 
 # Build Settings
 
@@ -88,17 +89,21 @@ defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAIC
 
 # =============================================================================
 
-site_url: https://jascenn.github.io
-site_baseurl: ""
-repo_code: Jascenn/tw93.github.io
+site_url: https://1994dira.github.io
+site_baseurl: "/codecodex.github.io"
+repo_code: 1994dira/codecodex.github.io
 
 site_name: CodeCodex
 site_description: "Claude Code 的终极指南 - 探索 AI 编程的无限可能"
 
-author_name: Jascen
-author_email: contact@codecodx.ai
-author_github: Jascenn
+- GitHub Pages域名：https://1994dira.github.io/codecodex.github.io/
+  
+author_name: 您的名字
+author_email: 您的邮箱
+author_github: 1994dira
 author_twitter: ""
+repo_code: 1994dira/codecodex.github.io
+site_url: https://1994dira.github.io
 
 # 站点默认分享图（建议放置实际图片，例如 /images/og-default.png）
 
