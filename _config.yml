@@ -1,9 +1,9 @@
 # Site Information
 
 title: CodeCodex
-description: "Claude Code 的终极指南 - 探索 AI 编程的无限可能"
-url: https://1994dira.github.io
-baseurl: /codecodex.github.io  
+description: Claude Code 的终极指南 - 探索 AI 编程的无限可能
+url: https://codecodex.ai
+baseurl: ""
 # 或者 "" 如果用自定义域名
 repo: 1994dira/codecodex.github.io
 
@@ -21,18 +21,18 @@ twitter: 您的Twitter ID
 # 顶部导航（已精简与排序）
 
 menu:
-  - title: "拼车指南"
-    url: "/carpool.html"
-  - title: "安装指南"
-    url: "/installation-guide.html"
-  - title: "博客"
-    url: "/"
-  - title: "关于"
-    url: "/about.html"
+  - title: 拼车指南
+    url: /carpool.html
+  - title: 安装指南
+    url: /installation-guide.html
+  - title: 博客
+    url: /
+  - title: 关于
+    url: /about.html
 
 # SEO and Analytics
 
-google_analytics: ""
+google_analytics: ''
 
 # Build Settings
 
@@ -59,7 +59,8 @@ collections:
     permalink: /en/:year-:month-:day/:title.html
     sort_by: date
 
-include: [".htaccess"]
+include:
+  - .htaccess
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -81,7 +82,7 @@ plugins:
 showBuyCoffee: false
 payImage: //gw.alipayobjects.com/zos/k/vb/1.png
 # 使用本地资源，后续如有 CDN 可替换
-assetUrl: ""
+assetUrl: ''
 defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
 # =============================================================================
@@ -95,14 +96,14 @@ defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAIC
 #repo_code: 1994dira/codecodex.github.io
 
 site_name: CodeCodex
-site_description: "Claude Code 的终极指南 - 探索 AI 编程的无限可能"
+site_description: Claude Code 的终极指南 - 探索 AI 编程的无限可能
 
 #GitHub Pages域名：https://1994dira.github.io/codecodex.github.io/
 
 author_name: 所罗门号商
 author_email: 您的邮箱
 author_github: 1994dira
-author_twitter: ""
+author_twitter: ''
 
 # 站点默认分享图（建议放置实际图片，例如 /images/og-default.png）
 
